@@ -1,3 +1,0 @@
-name : joo dong min
-age : 21
-hobby : sleep
