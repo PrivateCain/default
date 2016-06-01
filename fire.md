@@ -3,8 +3,8 @@ FIRE
 --------------
 1.First  
 2.Second  
-	_/* Third  
-	_/* Fourth  
+	* Third  
+	* Fourth  
 
 ----------
 
@@ -24,9 +24,10 @@ Noot|100
 
 ###Second
 ------------------
-
+```
 //Code  
-var bar = 0;  
+var bar = 0;
+```  
 
 > When someone says
 > > "Oh, it's a fire!"  
