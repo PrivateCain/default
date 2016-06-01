@@ -1,7 +1,10 @@
 FIRE
 ==================
 
-[TOC]
+1.First
+2.Second
+	* Third
+	* Fourth
 
 ----------
 
@@ -19,8 +22,8 @@ Noot|100
 
 ###Second
 ------------------
-//Code
-int github = 10;
+//Code  
+var bar = 0;  
 
 > When someone says
 > > "Oh, it's a fire!"  
