@@ -5,7 +5,7 @@ FIRE
 
 ----------
 
-First
+###First
 ------------------
 
 **Oh, how beautiful a candlelight is!**
@@ -17,13 +17,13 @@ Noot|100
 
 ----------
 
-Second
+#Second
 ------------------
 //Code
 int github = 10;
 
 > When someone says
-> > "Oh, it's a fire!"
+> > "Oh, it's a fire!"  
 [Their desire to kill a candlelight][1] kills the candlelight.
 
 
