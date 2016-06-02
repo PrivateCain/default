@@ -6,9 +6,9 @@
 - french open
 
 
-1.novak
-2.nadal
-3.federer
+ 1. novak
+ 2. nadal 
+ 3. federer
 
 *Murray*
 **Richard Gasquet**
