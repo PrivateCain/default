@@ -36,3 +36,5 @@ X-MEN : Apocalypse|*2016.05.25*
 
 `엑스맨 아포칼립스를 아직 보지 못하여 매우 슬픕니다.`
 `Wolverine Forever!!!!`
+`int val;`
+`val = 0;`
