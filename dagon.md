@@ -17,7 +17,8 @@
 
 [tennis][ball]
 [ball]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&old=091&aid=0005011315"aa"
-[ball]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&old=091&aid=0005011315/"ball is tound")
+
+[ball]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&old=091&aid=0005011315/"ball is round"
 
 ![novak](http://pds.joins.com/news/component/htmlphoto_mmdata/201507/14/htm_201507140591960106011.jpg)
 
