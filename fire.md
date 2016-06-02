@@ -18,6 +18,8 @@ FIRE
 Name|Age
 :--:|:-:
 Noot|100
+Mcree|35
+Tracer|26
 
 [See.](http://felcaustin.org/wp-content/uploads/candlelight.jpg)
 
