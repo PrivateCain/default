@@ -13,7 +13,7 @@
 *Murray*
 **Richard Gasquet**
 >gasquet
-[news](htp://naver.com)
+[news] ( http://naver.com)
 
 [tennis][ball]
 [ball]: http://naver.com
