@@ -13,7 +13,7 @@
 *Murray*
 **Richard Gasquet**
 >gasquet
-[news](htp://edition.cnn.com/2016/06/01/tennis/french-open-tennis-novak-djokovic-serena-willians-100-million-tennis/index.html)
+[news](htp://naver.com)
 
 [tennis][ball]
 [ball]: http://naver.com
