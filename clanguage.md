@@ -8,10 +8,14 @@ scanf
 -loop
 >**1.** *for*
 **2.** *while*
+
+
 .|for|while
 ---|---|---
 use|for(;;)|while()
 role|loop|loop
+
+
 
 [koreatech el educate](http://www.el.kut.ac.kr)
 ![google logo]
