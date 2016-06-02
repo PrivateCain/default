@@ -16,8 +16,7 @@
 [news](htp://edition.cnn.com/2016/06/01/tennis/french-open-tennis-novak-djokovic-serena-willians-100-million-tennis/index.html)
 
 [tennis][ball]
-
-[ball]: http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&old=091&aid=0005011315
+[ball]: http://naver.com
 
 ![novak](http://pds.joins.com/news/component/htmlphoto_mmdata/201507/14/htm_201507140591960106011.jpg)
 
